@@ -1,5 +1,5 @@
 # BrokenBlox
-A brick-breaker game made with SmileBASIC.
+A brick-breaker game made with SmileBASIC 3.
 # Installation
 manually:<br>
 1-go to <a href="https://github.com/SimsCrafterZ/BrokenBlox/releases/">the releases page</a>
