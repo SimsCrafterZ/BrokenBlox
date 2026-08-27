@@ -1,4 +1,4 @@
-# BrokenBlox
+# BrokenBlox!
 A brick-breaker game made with SmileBASIC 3.
 # Installation
 manually:<br>
